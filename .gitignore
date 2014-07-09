@@ -4,3 +4,19 @@ build/
 bin/
 node_modules/
 vendor/
+
+# IntelliJ files #
+##################
+.idea/
+*.ipr
+*.iml
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db

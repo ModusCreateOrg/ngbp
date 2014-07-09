@@ -2,11 +2,17 @@
   "name": "ng-boilerplate",
   "version": "0.3.2",
   "devDependencies": {
-    "angular": "~1.2",
-    "angular-mocks": "~1.2",
-    "bootstrap": "~3.1",
-    "angular-bootstrap": "~0.10.0",
-    "angular-ui-router": "~0.2"
+      "angular": "~1.2",
+      "angular-mocks": "~1.2",
+      "angular-scenario": "~1.2",
+      "angular-motion": "~0.3.2",
+      "angular-ui-router": "~0.2.10",
+
+      "angular-bootstrap": "~0.11.0",
+      "bootstrap-sass": "twbs/bootstrap-sass#~3.1.1",
+      "fontawesome": "~4.1.0",
+
+      "lodash": "~2.4.1"
   },
   "dependencies": {}
 }
