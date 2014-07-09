@@ -8,9 +8,10 @@ A (differently) opinionated kickstarter for [AngularJS](http://angularjs.org) pr
 
 
 ##TODO
+* Update license to provide attribution to ngbp w/o implying entire code base is copywritten to @joshdmiller
 * Expect to expand upon libraries used once I get a better feel for our typical usage
-* Plan to integrate Broccoli
-* Figure out plan for integrating updates from ng-boilerplate proper
+* Integrate Broccoli
+* Figure out plan for integrating new releases from ng-boilerplate proper
 
 ##Further Reading
 See [ngBoilerplate](http://joshdmiller.github.com/ng-boilerplate) for more information.
