@@ -3,8 +3,9 @@
 A (differently) opinionated kickstarter for [AngularJS](http://angularjs.org) projects.
 
 - Uses SASS instead of LESS ([grunt-sass](https://github.com/sindresorhus/grunt-sass) so no Ruby dependency)
+- Replaces `ngmin` with [`ngAnnotate`](https://github.com/olov/ng-annotate)
 - Removes support for CoffeeScript
-- Includes Angular UI's Router and Bootstrap libraries, as well as FontAwesome and Lo-Dash
+- Includes Angular [UI's Router](https://github.com/angular-ui/ui-router) and Bootstrap libraries, as well as FontAwesome and Lo-Dash
 
 
 ##TODO
